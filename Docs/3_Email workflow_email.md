@@ -1,0 +1,12 @@
+- Create a workflow.
+- Add the On Form Submission trigger.
+- Add the AI Agent and connect it to the form submission trigger.
+- Use the Google Gemini chat model to process the information.
+- In the final step, attach the Gmail node to the AI Agent.
+- Map the AI Agent’s reply to the email body.
+- Then fill in the To and Subject fields.
+- The workflow will generate answers to our questions using the Google Gemini chat model.
+- After that, it will send the email to the specified address.
+ 
+- # screen shot
+- <img width="1731" height="828" alt="image" src="https://github.com/user-attachments/assets/8e559aac-d000-4dd1-b0ab-c8ed3c50b26f" />
