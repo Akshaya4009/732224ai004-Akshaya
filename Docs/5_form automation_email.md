@@ -1,0 +1,15 @@
+- Create a workflow.
+- Add an On Form Submission trigger.
+- Connect the form to the trigger.
+- Create a Google Spreadsheet and add it to the workflow.
+- Then add the Append Row (or Get Rows) option in the Google Sheets node.
+- Map the form fields to the corresponding sheet columns.
+- Add the Google Spreadsheet that you already created.
+- Next, connect the Google Spreadsheet node to the Gmail node.
+- In Gmail, choose Send Message and enter the recipient email address.
+- Add the message content using the form data.
+- Add credentials for Google Sheets.
+- Finally, execute the workflow you created.
+
+- # screen shot
+- <img width="1758" height="897" alt="image" src="https://github.com/user-attachments/assets/fac4892c-b2bc-4199-a8b2-168a4bb5768a" />
