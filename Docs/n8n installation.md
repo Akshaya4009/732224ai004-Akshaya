@@ -1,0 +1,7 @@
+- Download and install the node js
+- # screen shot
+- <img width="703" height="718" alt="Screenshot 2025-11-23 141131" src="https://github.com/user-attachments/assets/80cf61c2-56d1-48eb-aaec-6910afa4495a" />
+- # screen shot
+- <img width="703" height="718" alt="Screenshot 2025-11-23 141131" src="https://github.com/user-attachments/assets/c17804f0-2d6e-4912-8008-a873aebbbe1d" />
+- # screen shot
+- <img width="939" height="841" alt="Screenshot 2025-11-23 141348" src="https://github.com/user-attachments/assets/7a23040e-0bc8-4cff-a579-127657d79dfd" />
